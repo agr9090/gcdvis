@@ -1,7 +1,7 @@
 import sys
 import os
 
-
+# teste
 (a,b) = (int(sys.argv[1]),int(sys.argv[2]))
 if a<b:
     (a,b) = (b,a)
